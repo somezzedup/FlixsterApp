@@ -4,9 +4,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ## Flix Part 1
 
-### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
-
 #### REQUIRED (10pts)
 - [X] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 
@@ -20,13 +17,12 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="YOUR_G![Flixster](https://user-images.githubusercontent.com/83977892/155828425-d1dadde2-9c9f-4b94-8609-c41c83e85687.gif)
-IF_URL_HERE" width=250><br>
+![Flixster](https://user-images.githubusercontent.com/83977892/155828449-ea5c6209-d4bc-481f-9eae-0b95c06e4a52.gif)
 
 ### Notes
 Describe any challenges encountered while building the app.
+There were some challenges whiile building the app such as getting the onSuccess message in the terminal when running the application however I was able to get 
+it working by doing a coldboot of the emulator. 
 
 ### Open-source libraries used
 
